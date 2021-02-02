@@ -1,0 +1,12 @@
+/Users/rajdeepbhasin/Desktop/GildedRoseChallenge/GuildedRoseCode/GildedRose.Tests/bin/Debug/GildedRose.Tests.dll
+/Users/rajdeepbhasin/Desktop/GildedRoseChallenge/GuildedRoseCode/GildedRose.Tests/bin/Debug/GildedRose.Tests.pdb
+/Users/rajdeepbhasin/Desktop/GildedRoseChallenge/GuildedRoseCode/GildedRose.Tests/bin/Debug/GildedRose.Application.exe
+/Users/rajdeepbhasin/Desktop/GildedRoseChallenge/GuildedRoseCode/GildedRose.Tests/bin/Debug/nunit.framework.dll
+/Users/rajdeepbhasin/Desktop/GildedRoseChallenge/GuildedRoseCode/GildedRose.Tests/bin/Debug/GildedRose.Application.pdb
+/Users/rajdeepbhasin/Desktop/GildedRoseChallenge/GuildedRoseCode/GildedRose.Tests/bin/Debug/GildedRose.Application.exe.config
+/Users/rajdeepbhasin/Desktop/GildedRoseChallenge/GuildedRoseCode/GildedRose.Tests/bin/Debug/nunit.framework.xml
+/Users/rajdeepbhasin/Desktop/GildedRoseChallenge/GuildedRoseCode/GildedRose.Tests/obj/Debug/GildedRose.Tests.csprojAssemblyReference.cache
+/Users/rajdeepbhasin/Desktop/GildedRoseChallenge/GuildedRoseCode/GildedRose.Tests/obj/Debug/GildedRose.Tests.csproj.CoreCompileInputs.cache
+/Users/rajdeepbhasin/Desktop/GildedRoseChallenge/GuildedRoseCode/GildedRose.Tests/obj/Debug/GildedRose.Tests.csproj.CopyComplete
+/Users/rajdeepbhasin/Desktop/GildedRoseChallenge/GuildedRoseCode/GildedRose.Tests/obj/Debug/GildedRose.Tests.dll
+/Users/rajdeepbhasin/Desktop/GildedRoseChallenge/GuildedRoseCode/GildedRose.Tests/obj/Debug/GildedRose.Tests.pdb
